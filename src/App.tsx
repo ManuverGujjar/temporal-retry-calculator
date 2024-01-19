@@ -41,7 +41,7 @@ function App() {
       </div>
       <ShowCalculations {...config} />
       <div style={{ display: 'inline-block', position: 'fixed', right: '10px', bottom: '10px' }}>
-        <SocialIcon target='_blank' style={{ marginRight: '5px' }} url="https://github.com/ManuverGujjar" />
+        <SocialIcon target='_blank' style={{ marginRight: '5px' }} url="https://github.com/ManuverGujjar/temporal-retry-calculator" />
       </div>
     </div>
   );
