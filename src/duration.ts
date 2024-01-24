@@ -1,5 +1,7 @@
 import moment from "moment";
 
+// reference: https://stackoverflow.com/a/61668221
+
 function formatDuration(period: number): string {
     let parts = [];
     const duration = moment.duration(period);
